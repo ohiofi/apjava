@@ -1,8 +1,8 @@
-#E2-1
+# E2-1
 
 Write an AreaTester program that constructs a Rectangle object and then computes and prints its area. Use the getWidth and getHeight methods. Also print (printf) the expected answer.
 
-#E2-5
+# E2-5
 
 Look into the API documentation of the Rectangle class and locate the method
 
@@ -34,6 +34,6 @@ Write a program that will...
 9. Print the actual width (using getWidth method) of the final box
 10. Print the actual height (using getHeight method) of the final box
 
-#E2-14
+# E2-14
 
 Look at the API of the Point class and find out how to construct a Point object. In a PointTester program, construct two points with coordinates (3, 4) and (–3, –4). Find the distance between them, using the distance method. Print the distance, as well as the expected value.
